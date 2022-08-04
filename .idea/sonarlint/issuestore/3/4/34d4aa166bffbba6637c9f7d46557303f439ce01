@@ -1,0 +1,19 @@
+
+G	java:S106"+Replace this use of System.out by a logger.(Ø‘ÈÊ8ÕÄğ¿ä1
+X	java:S125"<This block of commented-out lines of code should be removed.(ô¼Ò‚8ÖÄğ¿ä1
+W	java:S125"<This block of commented-out lines of code should be removed.(öÑ38ÖÄğ¿ä1
+X	java:S125$"<This block of commented-out lines of code should be removed.(”²€à8ä‡€¿ä1
+]	java:S125,"<This block of commented-out lines of code should be removed.(ÒÑÂíúÿÿÿÿ8Âğ¿ä1
+d
+java:S1128"GRemove this unused import 'jm.task.core.jdbc.dao.UserDaoHibernateImpl'.(Ê˜Ğ›8Âğ¿ä1
+[
+java:S1128"9Remove this unused import 'jm.task.core.jdbc.model.User'.(õ„­³úÿÿÿÿ8ì¾€¿ä1
+U
+java:S1128"8Remove this unused import 'jm.task.core.jdbc.util.Util'.(õ¥ãô8ì¾€¿ä1
+T
+java:S1128"2Remove this unused import 'org.hibernate.Session'.(È¹›§ùÿÿÿÿ8ì¾€¿ä1
+[
+java:S1128"9Remove this unused import 'org.hibernate.SessionFactory'.(ñ¦«¬şÿÿÿÿ8ì¾€¿ä1
+M
+java:S1128
+"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ì¾€¿ä1
